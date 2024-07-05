@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Management System (HMS)
 
 This is a simple Hospital Management System implemented in Python. The system allows users to manage appointments for patients and doctors, including scheduling, updating, and canceling appointments. 
 
